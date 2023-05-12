@@ -18,7 +18,7 @@ main {
     width: 100%;
 }
 header {
-    height: 160px;
+    height: 165px;
     padding-top: 10px;
     color: white;
     background-color: #333;
@@ -27,7 +27,7 @@ header {
 .photo {
     margin-left: 7%;
     border-radius: 50%;
-    width: 130px;
+    width: 140px;
     height: 130px;
     overflow: hidden;
 }
