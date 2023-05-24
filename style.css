@@ -120,3 +120,20 @@ strong{
 span{
     margin-left: 10px;
 }
+
+.download-btn {
+    display: inline-block;
+    background-color: #13c3ba;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+}
